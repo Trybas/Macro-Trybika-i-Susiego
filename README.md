@@ -21,9 +21,9 @@ Przydatne głównie do kopania (AFK).
 ## Zastosowanie
 Automatyczne kopanie tuneli
 przykłady:
--DonutSMP
--Anarchia.gg
--inne kopalnie lub serwery
+- DonutSMP
+- Anarchia.gg
+- inne kopalnie lub serwery
 
 ---
 
