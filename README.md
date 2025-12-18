@@ -6,7 +6,7 @@ A simple Minecraft macro that automatically:
 
 Mainly useful for mining (AFK).
 
-
+<img width="666" height="343" alt="Zrzut ekranu 2025-12-18 223212" src="https://github.com/user-attachments/assets/4bda03fa-4ba2-4da7-a975-e65c8e238ac7" />
 
 ---
 
